@@ -1,0 +1,101 @@
+job_id,job_title,company,location,skills,experience_required,posted_date
+JOB001,Software Developer,Accenture,Delhi,"Java, Spring Boot",1,16-08-2025
+JOB002,Data Analyst,TCS,Hyderabad,"Java, Spring Boot",1,07-08-2025
+JOB003,Business Analyst,IBM,Mumbai,"AI, ML, Python, TensorFlow",8,09-08-2025
+JOB004,Backend Developer,IBM,Mumbai,"R, Tableau, ML",6,19-08-2025
+JOB005,Backend Developer,Accenture,Bengaluru,"Java, Spring Boot",2,30-07-2025
+JOB006,Software Developer,IBM,Chennai,"Excel, Business Analysis",5,07-08-2025
+JOB007,AI Engineer,Cognizant,Mumbai,"AI, ML, Python, TensorFlow",6,05-08-2025
+JOB008,Data Scientist,Infosys,Mumbai,"Cloud, DevOps, Docker",3,17-08-2025
+JOB009,AI Engineer,Accenture,Pune,"AI, ML, Python, TensorFlow",5,08-08-2025
+JOB010,Data Analyst,Cognizant,Bengaluru,"C++, Data Structures",0,24-08-2025
+JOB011,Backend Developer,Cognizant,Mumbai,"Python, SQL, Power BI",1,15-08-2025
+JOB012,Machine Learning Engineer,Accenture,Pune,"C++, Data Structures",4,07-08-2025
+JOB013,AI Engineer,Cognizant,Mumbai,"Cloud, DevOps, Docker",2,20-08-2025
+JOB014,Software Developer,Wipro,Hyderabad,"Excel, Business Analysis",3,03-08-2025
+JOB015,Backend Developer,Wipro,Chennai,"R, Tableau, ML",7,02-08-2025
+JOB016,Software Developer,Cognizant,Bengaluru,"Excel, Business Analysis",7,25-08-2025
+JOB017,DevOps Engineer,TCS,Chennai,"Java, Spring Boot",0,18-08-2025
+JOB018,Software Developer,Capgemini,Delhi,"C++, Data Structures",7,15-08-2025
+JOB019,Business Analyst,Infosys,Mumbai,"AI, ML, Python, TensorFlow",8,22-08-2025
+JOB020,Data Scientist,Cognizant,Chennai,"Python, SQL, Power BI",2,10-08-2025
+JOB021,Data Analyst,Wipro,Mumbai,"R, Tableau, ML",2,02-08-2025
+JOB022,AI Engineer,IBM,Bengaluru,"Oracle, SQL",2,21-08-2025
+JOB023,DevOps Engineer,Accenture,Delhi,"R, Tableau, ML",5,05-08-2025
+JOB024,Machine Learning Engineer,Cognizant,Delhi,"Excel, Business Analysis",1,07-08-2025
+JOB025,Frontend Developer,Infosys,Hyderabad,"Excel, Business Analysis",8,17-08-2025
+JOB026,Backend Developer,IBM,Mumbai,"Python, SQL, Power BI",1,09-08-2025
+JOB027,Software Developer,IBM,Pune,"Java, Spring Boot",0,29-07-2025
+JOB028,Data Scientist,IBM,Pune,"Oracle, SQL",2,04-08-2025
+JOB029,Business Analyst,Wipro,Bengaluru,"AI, ML, Python, TensorFlow",1,21-08-2025
+JOB030,DevOps Engineer,TCS,Hyderabad,"C++, Data Structures",2,15-08-2025
+JOB031,Software Developer,IBM,Delhi,"R, Tableau, ML",7,01-08-2025
+JOB032,Software Developer,Infosys,Bengaluru,"Oracle, SQL",7,04-08-2025
+JOB033,Data Scientist,Infosys,Pune,"AI, ML, Python, TensorFlow",8,16-08-2025
+JOB034,Data Analyst,Wipro,Delhi,"Oracle, SQL",8,03-08-2025
+JOB035,Machine Learning Engineer,IBM,Mumbai,"C++, Data Structures",0,25-08-2025
+JOB036,Data Scientist,TCS,Pune,"JavaScript, React",4,08-08-2025
+JOB037,Business Analyst,Accenture,Delhi,"Python, SQL, Power BI",6,28-07-2025
+JOB038,Machine Learning Engineer,TCS,Hyderabad,"JavaScript, React",7,24-08-2025
+JOB039,Backend Developer,IBM,Pune,"AI, ML, Python, TensorFlow",2,22-08-2025
+JOB040,Machine Learning Engineer,Capgemini,Bengaluru,"R, Tableau, ML",7,26-07-2025
+JOB041,Backend Developer,TCS,Delhi,"Cloud, DevOps, Docker",7,22-08-2025
+JOB042,Machine Learning Engineer,Infosys,Delhi,"R, Tableau, ML",4,08-08-2025
+JOB043,Frontend Developer,IBM,Pune,"C++, Data Structures",7,25-08-2025
+JOB044,DevOps Engineer,Tech Mahindra,Bengaluru,"AI, ML, Python, TensorFlow",0,03-08-2025
+JOB045,DevOps Engineer,TCS,Hyderabad,"Oracle, SQL",8,28-07-2025
+JOB046,AI Engineer,Capgemini,Mumbai,"Python, SQL, Power BI",2,15-08-2025
+JOB047,AI Engineer,Cognizant,Mumbai,"C++, Data Structures",8,30-07-2025
+JOB048,Machine Learning Engineer,Accenture,Bengaluru,"Java, Spring Boot",8,28-07-2025
+JOB049,Machine Learning Engineer,Wipro,Mumbai,"Cloud, DevOps, Docker",5,17-08-2025
+JOB050,Frontend Developer,Infosys,Chennai,"C++, Data Structures",4,24-08-2025
+JOB051,Data Analyst,TCS,Chennai,"JavaScript, React",4,10-08-2025
+JOB052,AI Engineer,Capgemini,Pune,"Cloud, DevOps, Docker",2,26-07-2025
+JOB053,Backend Developer,Tech Mahindra,Chennai,"AI, ML, Python, TensorFlow",1,24-08-2025
+JOB054,Machine Learning Engineer,Capgemini,Hyderabad,"Cloud, DevOps, Docker",5,23-08-2025
+JOB055,DevOps Engineer,IBM,Chennai,"Java, Spring Boot",6,13-08-2025
+JOB056,DevOps Engineer,Tech Mahindra,Hyderabad,"Python, SQL, Power BI",3,29-07-2025
+JOB057,Machine Learning Engineer,Tech Mahindra,Mumbai,"AI, ML, Python, TensorFlow",1,05-08-2025
+JOB058,Data Scientist,IBM,Mumbai,"Java, Spring Boot",3,15-08-2025
+JOB059,Backend Developer,Capgemini,Chennai,"Cloud, DevOps, Docker",8,24-08-2025
+JOB060,Machine Learning Engineer,Tech Mahindra,Delhi,"Cloud, DevOps, Docker",8,18-08-2025
+JOB061,Frontend Developer,Cognizant,Mumbai,"Oracle, SQL",7,31-07-2025
+JOB062,Machine Learning Engineer,Capgemini,Chennai,"Cloud, DevOps, Docker",4,26-07-2025
+JOB063,Software Developer,Capgemini,Mumbai,"JavaScript, React",6,06-08-2025
+JOB064,Software Developer,Wipro,Pune,"Python, SQL, Power BI",8,31-07-2025
+JOB065,Data Scientist,Capgemini,Delhi,"JavaScript, React",1,10-08-2025
+JOB066,Software Developer,Capgemini,Chennai,"Python, SQL, Power BI",2,12-08-2025
+JOB067,AI Engineer,Tech Mahindra,Chennai,"Java, Spring Boot",0,02-08-2025
+JOB068,Data Scientist,TCS,Hyderabad,"R, Tableau, ML",8,01-08-2025
+JOB069,Business Analyst,Tech Mahindra,Bengaluru,"Java, Spring Boot",8,14-08-2025
+JOB070,Machine Learning Engineer,Accenture,Mumbai,"C++, Data Structures",2,21-08-2025
+JOB071,Frontend Developer,Capgemini,Mumbai,"Cloud, DevOps, Docker",3,29-07-2025
+JOB072,AI Engineer,Capgemini,Delhi,"AI, ML, Python, TensorFlow",7,18-08-2025
+JOB073,AI Engineer,Infosys,Bengaluru,"Java, Spring Boot",1,29-07-2025
+JOB074,Data Analyst,Infosys,Chennai,"Cloud, DevOps, Docker",4,29-07-2025
+JOB075,Frontend Developer,TCS,Hyderabad,"Python, SQL, Power BI",6,12-08-2025
+JOB076,Frontend Developer,Cognizant,Bengaluru,"AI, ML, Python, TensorFlow",5,06-08-2025
+JOB077,Software Developer,Infosys,Hyderabad,"C++, Data Structures",0,26-07-2025
+JOB078,Machine Learning Engineer,IBM,Pune,"JavaScript, React",2,27-07-2025
+JOB079,Data Scientist,Tech Mahindra,Bengaluru,"Java, Spring Boot",0,20-08-2025
+JOB080,Business Analyst,Capgemini,Pune,"Cloud, DevOps, Docker",8,31-07-2025
+JOB081,AI Engineer,IBM,Pune,"C++, Data Structures",7,04-08-2025
+JOB082,Machine Learning Engineer,Tech Mahindra,Mumbai,"JavaScript, React",1,13-08-2025
+JOB083,DevOps Engineer,TCS,Bengaluru,"R, Tableau, ML",3,12-08-2025
+JOB084,Data Scientist,IBM,Pune,"Excel, Business Analysis",3,27-07-2025
+JOB085,AI Engineer,Cognizant,Mumbai,"Oracle, SQL",8,15-08-2025
+JOB086,DevOps Engineer,Capgemini,Bengaluru,"JavaScript, React",2,11-08-2025
+JOB087,Data Scientist,Capgemini,Pune,"Java, Spring Boot",0,28-07-2025
+JOB088,Software Developer,Wipro,Bengaluru,"R, Tableau, ML",2,08-08-2025
+JOB089,Frontend Developer,Infosys,Bengaluru,"JavaScript, React",5,29-07-2025
+JOB090,Software Developer,Cognizant,Mumbai,"R, Tableau, ML",2,01-08-2025
+JOB091,Data Scientist,Accenture,Chennai,"Cloud, DevOps, Docker",1,21-08-2025
+JOB092,Data Scientist,Cognizant,Delhi,"C++, Data Structures",1,18-08-2025
+JOB093,Frontend Developer,Cognizant,Pune,"Python, SQL, Power BI",7,24-08-2025
+JOB094,Data Analyst,Tech Mahindra,Delhi,"Cloud, DevOps, Docker",7,11-08-2025
+JOB095,Business Analyst,IBM,Hyderabad,"R, Tableau, ML",2,05-08-2025
+JOB096,Software Developer,Capgemini,Delhi,"Excel, Business Analysis",7,22-08-2025
+JOB097,Software Developer,Infosys,Bengaluru,"Java, Spring Boot",4,13-08-2025
+JOB098,Software Developer,Tech Mahindra,Mumbai,"Java, Spring Boot",8,22-08-2025
+JOB099,Business Analyst,Infosys,Hyderabad,"AI, ML, Python, TensorFlow",0,15-08-2025
+JOB100,Data Analyst,IBM,Hyderabad,"AI, ML, Python, TensorFlow",5,01-08-2025
